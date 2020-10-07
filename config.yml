@@ -8,7 +8,7 @@ output:
 keywords: Cecil, Static Site Generator, SSG
 author: Arnaud Ligny
 title: WCPGW
-description: A ready to use static blog, powered by Cecil.
+description: What Could Possibly Go Wrong?
 baseurl: /
 canonicalurl: true
 date:
